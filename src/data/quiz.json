@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "questions": "What is React?",
+            "choices": [
+                "A JavaScript library",
+                "A programming language",
+                "A database management system",
+                "A text editor"
+            ],
+            "answer": "A JavaScript library"
+        },
+        {
+            "questions": "Which tool can be used for managing state in a React application?",
+            "choices": [
+                "Redux",
+                "Express.js",
+                "Angular",
+                "Vue.js"
+            ],
+            "answer": "Redux"
+        },
+        {
+            "questions": "What does JSX stand for?",
+            "choices": [
+                "JavaScript XML",
+                "Java Syntax Extension",
+                "JSON and XML",
+                "JavaScript Examine"
+            ],
+            "answer": "JavaScript XML"
+        },
+        {
+            "questions": "In React, how do you render a component conditionally?",
+            "choices": [
+                "Using the `if` statement",
+                "Using the `render` method",
+                "Using the `map` function",
+                "Using the `renderIf` prop"
+            ],
+            "answer": "Using the `render` method"
+        },
+        {
+            "questions": "What is the virtual DOM in React used for?",
+            "choices": [
+                "Optimizing network requests",
+                "Efficiently updating the UI",
+                "Managing authentication",
+                "Database querying"
+            ],
+            "answer": "Efficiently updating the UI"
+        },
+        {
+            "questions": "Which lifecycle method is called after a component is inserted into the DOM?",
+            "choices": [
+                "componentWillUnmount",
+                "componentDidMount",
+                "componentWillUpdate",
+                "componentDidUpdate"
+            ],
+            "answer": "componentDidMount"
+        },
+        {
+            "questions": "What is the purpose of React Router?",
+            "choices": [
+                "Handling server requests",
+                "Creating responsive designs",
+                "Managing state",
+                "Adding animations"
+            ],
+            "answer": "Creating responsive designs"
+        },
+        {
+            "questions": "Which library is commonly used for making HTTP requests in React?",
+            "choices": [
+                "Axios",
+                "Lodash",
+                "jQuery",
+                "Fetch"
+            ],
+            "answer": "Axios"
+        }
+    ]
+}
